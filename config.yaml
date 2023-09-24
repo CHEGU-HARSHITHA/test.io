@@ -1,7 +1,8 @@
-baseURL: "https://chegu-harshitha.github.io/harshitha-chegu.github.io/"
+baseURL: ""
 languageCode: "en-us"
 title: "Harshitha Chegu"
 theme: hugo-profile
+canonifyURLs: true
 
 Paginate: 3
 enableRobotsTXT: true
@@ -113,7 +114,7 @@ params:
     intro: "Hi there! I'm"
     title: "Harshitha Chegu"
     #subtitle: "bondam antara babu"
-    content: "A highly organized and hardworking individual searching for a position to secure a challenging and responsible career opportunity to expand my learnings, knowledge, skills and contribute to the field."
+    content: "Enthusiastic Data Science graduate student driven by an insatiable curiosity for uncovering insights from data. I have a strong desire to learn, explore, and embrace new horizons. My journey is fueled by a deep curiosity and a commitment to continuous growth!!"
     image: /images/Prof1.jpg
     bottomImage:
       enable: true
